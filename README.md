@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World
 
 Soy estudiante de Analista Programador Computacional en DUOC UC 2023
 Estoy ocupando este perfil de Github para ir subiendo mis proyectos educativos y personales e ir mostrando mis trabajos.
